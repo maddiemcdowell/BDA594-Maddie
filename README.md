@@ -6,4 +6,4 @@
 
 ### Big data are large sets of data that when analyzed can give meaningful insights that help shape advancement in a multitude of disciplines
 
-### ![graduation picture](maddie-mcdowell-grad-photos-2025-093.jpg)
+### <img src="images/maddie-mcdowell-grad-photos-2025-093.jpg" width="350">
